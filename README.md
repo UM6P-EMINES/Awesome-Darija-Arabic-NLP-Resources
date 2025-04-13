@@ -12,27 +12,35 @@
 
 ## 📋 Contents
 
-- [Datasets](#-datasets)
-  - [Text Datasets](#text-datasets)
-  - [Speech Datasets](#speech-datasets)
-  - [Multimodal Datasets](#multimodal-datasets)
-- [Models](#-models)
-  - [Language Models](#language-models)
-  - [Translation Models](#translation-models)
-  - [Speech Models](#speech-models)
-  - [NER & Classification Models](#ner--classification-models)
-  - [Summarization Models](#summarization-models)
-  - [Frameworks & Tools](#frameworks--tools)
-- [Benchmarks](#-benchmarks)
-  - [General Language Understanding](#general-language-understanding)
-  - [Translation Benchmarks](#translation-benchmarks)
-  - [Summarization Benchmarks](#summarization-benchmarks)
-  - [LLM Evaluation Frameworks](#llm-evaluation-frameworks)
-- [Tools & Libraries](#-tools--libraries)
-- [Learning Resources](#-learning-resources)
-- [Research Papers](#-research-papers)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Awesome Darija Arabic NLP Resources ](#awesome-darija-arabic-nlp-resources-)
+	- [📋 Contents](#-contents)
+	- [📊 Datasets](#-datasets)
+		- [Text Datasets](#text-datasets)
+			- [Translation \& Lexical Resources](#translation--lexical-resources)
+			- [News \& Media](#news--media)
+			- [Sentiment Analysis \& Content Classification](#sentiment-analysis--content-classification)
+			- [Dialect Identification](#dialect-identification)
+			- [Named Entity Recognition](#named-entity-recognition)
+			- [General Text Corpora](#general-text-corpora)
+		- [Speech Datasets](#speech-datasets)
+		- [Multimodal Datasets](#multimodal-datasets)
+	- [🤖 Models](#-models)
+		- [Language Models](#language-models)
+		- [Translation Models](#translation-models)
+		- [Speech Models](#speech-models)
+		- [NER \& Classification Models](#ner--classification-models)
+		- [Summarization Models](#summarization-models)
+		- [Frameworks \& Tools](#frameworks--tools)
+	- [📏 Benchmarks](#-benchmarks)
+		- [General Language Understanding](#general-language-understanding)
+		- [Translation Benchmarks](#translation-benchmarks)
+		- [Summarization Benchmarks](#summarization-benchmarks)
+		- [LLM Evaluation Frameworks](#llm-evaluation-frameworks)
+	- [🛠️ Tools \& Libraries](#️-tools--libraries)
+	- [📚 Learning Resources](#-learning-resources)
+	- [📄 Research Papers](#-research-papers)
+	- [🤝 Contributing](#-contributing)
+	- [📜 License](#-license)
 
 ## 📊 Datasets
 
@@ -90,6 +98,7 @@
 | **Darija-SFT-Mixture** | Dataset for fine-tuning LLMs with instruction samples in Darija. | 458K samples | - | [Hugging Face](https://huggingface.co/datasets/MBZUAI-Paris/Darija-SFT-Mixture) |
 | **MSDA Open Datasets** | Social media posts in Arabic dialects, including Darija. | - | 2020 | [Website](https://msda.um6p.ma/msda_datasets) |
 | **DART** | Dataset including Maghrebi, Egyptian, Levantine, Gulf, and Iraqi Arabic. | - | - | [QSpace](https://qspace.qu.edu.qa/handle/10576/15265) |
+| **BoDmagh Dataset** | Supervised Fine-Tuning (SFT) dataset for Darija, containing user-assistant conversations in JSON format. | Manually curated, size increasing daily. | 2025 | [GitHub](https://github.com/ImadSaddik/BoDmaghDataset) / [Hugging Face](https://huggingface.co/datasets/ImadSaddik/BoDmaghDataset) |
 
 ### Speech Datasets
 

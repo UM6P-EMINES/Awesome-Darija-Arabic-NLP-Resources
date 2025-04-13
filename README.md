@@ -90,6 +90,7 @@
 | **Darija-SFT-Mixture** | Dataset for fine-tuning LLMs with instruction samples in Darija. | 458K samples | - | [Hugging Face](https://huggingface.co/datasets/MBZUAI-Paris/Darija-SFT-Mixture) |
 | **MSDA Open Datasets** | Social media posts in Arabic dialects, including Darija. | - | 2020 | [Website](https://msda.um6p.ma/msda_datasets) |
 | **DART** | Dataset including Maghrebi, Egyptian, Levantine, Gulf, and Iraqi Arabic. | - | - | [QSpace](https://qspace.qu.edu.qa/handle/10576/15265) |
+| **BoDmagh Dataset** | Supervised Fine-Tuning (SFT) dataset for Darija, containing user-assistant conversations in JSON format. | Manually curated, size increasing daily. | 2025 | [GitHub](https://github.com/ImadSaddik/BoDmaghDataset) / [Hugging Face](https://huggingface.co/datasets/ImadSaddik/BoDmaghDataset) |
 
 ### Speech Datasets
 
